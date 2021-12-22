@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If it costs you your peace, it's too expensive
 Use the left arrow to go back!
